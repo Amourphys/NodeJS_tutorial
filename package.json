@@ -1,0 +1,20 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "tutorial fundamental but node.js",
+  "main": "lessons/test.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
